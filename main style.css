@@ -1,0 +1,232 @@
+@import url('https://fonts.googleapis.com/css?family=Lobster|Ubuntu');
+body{
+    background-color:#464646;
+    margin:0;
+    font-family: 'Ubuntu', sans-serif;
+}
+iv{
+    outline:1px solid black;
+}
+.header{
+    background-color:#464646;
+    color:#FFFFFF;
+    height:160px;
+    max-width:1020px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.nav{
+    max-width:900px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+.logo{
+    margin-top:20px;
+    margin-left:340px;
+    float:left;
+}
+.logo img{
+    float:left;
+    margin-left:auto;
+    margin-right: auto;
+    max-width:220px;
+    max-height: 85px;
+}
+.link{
+    margin-top:20px;
+    font-size:1rem;
+    margin-left: 40px;
+    float:left;
+    color:#FFFFFF;
+    text-align: center;
+}
+.link a{
+    color:white;
+    text-decoration: none;
+    margin-left:40px;
+    margin-right:40px;
+}
+.link a:hover{
+    color:#ec8f8f;
+}
+.designheader a {
+    color: white;
+    text-decoration: none;
+}
+
+.designheader a:hover{
+    color: #555555;
+}
+.photographyheader a {
+    color: white;
+    text-decoration: none;
+}
+
+.photographyheader a:hover{
+    color: #ec8f8f;
+}
+.paintingheader a {
+    color: #555555;
+    text-decoration: none;
+}
+
+.paintingheader a:hover{
+    color: #ec8f8f;
+}
+.about{
+    height:530px;
+    max-width:1020px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #e4e0e1;
+}
+.about img{
+    max-height: 402px;
+    max-width: 307px;
+    float:right;
+    margin-top: 60px;
+    margin-right: 70px;
+    outline: 15px solid #f5f3f4;
+}
+.aboutheader{
+    color: #555555;
+    font-family: 'Lobster', cursive;
+    font-size: 2.5rem;
+    float:left;
+    margin-left: 75px;
+    margin-top: 40px;
+}
+.abouttext{
+    color:#555555;
+    margin-left:75px;
+    margin-top:40px;
+    float:left;
+    max-width:500px;
+    font-size:1rem;
+}
+.design{
+    max-width: 1020px;
+    margin-left: auto;
+    margin-right: auto;
+    height:700px;
+    background-color: #ec8f8f;
+}
+.designheader{
+    color: white;
+    font-family: 'Lobster', cursive;
+    font-size: 2.5rem;
+    float:left;
+    margin-left: 75px;
+    margin-top: 40px;
+}
+.designtext{
+    color:white;
+    font-size:1rem;
+    max-width:740px;
+    margin-top: 55px;
+    margin-left: 45px;
+    float:left;
+}
+.image1{
+    max-height: 270px;
+    float: left;
+    margin-top:40px;
+    margin-left:85px;
+    outline:10px solid #e2b9b9
+}
+.image2{
+    max-height:230px;
+    float:left;
+    margin-top:30px;
+    margin-left:140px;
+    outline:10px solid #e2b9b9
+}
+.image3{
+    max-height:230px;
+    float:left;
+    margin-top:30px;
+    margin-left:40px;
+    outline:10px solid #e2b9b9
+}
+.photography{
+    max-width: 1020px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 550px;
+    background-color: #464646;
+}
+.photographyheader{
+    color: white;
+    font-family: 'Lobster', cursive;
+    font-size: 2.5rem;
+    float:left;
+    margin-left: 75px;
+    margin-top: 40px;
+}
+.photographytext{
+    color:white;
+    font-size:1rem;
+    max-width:650px;
+    margin-top: 55px;
+    margin-left: 45px;
+    float:left;
+}
+.image4{
+    max-height: 370px;
+    float:left;
+    margin-top:40px;
+    margin-left:70px;
+    outline:10px solid #7d7c7c
+}
+.painting{
+    background-color: #e4e0e1;
+    max-width:1020px;
+    height:560px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.paintingheader{
+    color: #555555;
+    font-family: 'Lobster', cursive;
+    font-size: 2.5rem;
+    float:left;
+    margin-left: 75px;
+    margin-top: 40px;
+}
+.paintingtext{
+    color:#555555;
+    margin-left:45px;
+    margin-top:55px;
+    float:left;
+    max-width:700px;
+    font-size:1rem;
+}
+.image5{
+    max-height: 380px;
+    float:left;
+    margin-top:45px;
+    margin-left:50px;
+    outline:10px solid #f5f3f4
+}
+.footer{
+    background-color:#464646;
+    height:100px;
+    max-width:1020px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.copyright{
+    color: #ec8f8f;
+    font-size: 0.75rem;
+    float:left;
+    margin-left:30px;
+    margin-top:45px;
+}
+.footer img{
+    max-height:40px;
+    max-width:40px;
+    float:right;
+    margin-top:35px;
+    margin-right:35px;
+}
